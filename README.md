@@ -1,6 +1,6 @@
 # Inference-Time Image Augmentation for Robust Vision–Language Model Scene Understanding on Edge Devices
 
-This repository contains the implementation, documentation, and experimental framework for my Master’s thesis at the University of Stuttgart.  
+This repository contains the implementation, documentation, and experimental framework for my Research Project at the University of Stuttgart.  
 The project investigates how **inference-time image augmentation and transformation techniques** can improve scene comprehension in **Vision–Language Models (VLMs)** deployed on **edge-based autonomous robotic systems**.
 
 Unlike traditional approaches that rely on dataset expansion or retraining, this work focuses exclusively on **runtime preprocessing** to enhance robustness under challenging sensing conditions—such as low light, motion blur, occlusion, or sensor noise—without modifying any model parameters.
