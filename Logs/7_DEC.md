@@ -16,6 +16,9 @@
 
 ![Screenshot](https://github.com/rayy2002/Image-Augmentation-and-Transformation-Techniques-for-Vision-Language-Models/blob/main/Logs/images/Screenshot%202025-12-09%20211507.png?raw=true)
 
+![Screenshot](https://github.com/rayy2002/Image-Augmentation-and-Transformation-Techniques-for-Vision-Language-Models/blob/main/Logs/images/Screenshot%202025-12-09%20211544.png?raw=true)
+
+
 
 
 
