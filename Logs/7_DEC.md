@@ -14,7 +14,7 @@
   - After annotating both cranes manually, the model updated its answer and correctly identified two cranes.
 - Treated this as a hands-on exploration to understand the model’s perception abilities and multimodal behavior.
 
-![Screenshot](/images/Screenshot%202025-12-09%20211507.png)
+![Screenshot](Logs/images/Screenshot%202025-12-09%20211507.png)
 
 
 ## Issues / Challenges
