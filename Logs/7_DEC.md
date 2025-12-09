@@ -14,6 +14,8 @@
   - After annotating both cranes manually, the model updated its answer and correctly identified two cranes.
 - Treated this as a hands-on exploration to understand the model’s perception abilities and multimodal behavior.
 
+Logs/images/Screenshot 2025-12-09 211507.png
+
 ## Issues / Challenges
 - The model initially missed one of the cranes in the image due to low visibility.
 - Required manual annotation to help the model understand the full context, revealing some limitations in detection accuracy.
