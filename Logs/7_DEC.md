@@ -14,7 +14,8 @@
   - After annotating both cranes manually, the model updated its answer and correctly identified two cranes.
 - Treated this as a hands-on exploration to understand the model’s perception abilities and multimodal behavior.
 
-![Screenshot]("Logs/images/Screenshot 2025-12-09 211507.png")
+![Screenshot](https://github.com/rayy2002/Image-Augmentation-and-Transformation-Techniques-for-Vision-Language-Models/blob/main/Logs/images/Screenshot%202025-12-09%20211507.png?raw=true)
+
 
 
 
